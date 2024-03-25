@@ -11,7 +11,7 @@ function Card() {
       </div>
       <div className="card__info">
         <div className="card__info_type">
-          <p>Learning</p>
+          <h1>Learning</h1>
         </div>
         <div className="card__info_date">
           <p>Published 21 Dec 2023</p>

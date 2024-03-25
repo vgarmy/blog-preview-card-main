@@ -26,7 +26,7 @@
   gap: 1.5rem;
 }
 
-.card__info_type p {
+.card__info_type h1np {
   background: var(--Yellow);
   font-weight: 800;
   color: var(--Black);

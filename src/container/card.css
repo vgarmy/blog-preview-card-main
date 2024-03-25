@@ -39,10 +39,16 @@
   font-size: 0.8rem;
 }
 
-.card__info_code p {
+.card__info_code a {
   font-weight: 800;
   color: var(--Black);
   font-size: 1rem;
+  text-decoration: none;
+}
+
+.card__info_code a:hover {
+  text-decoration: none;
+  color: var(--Yellow);
 }
 
 .card__info_text {

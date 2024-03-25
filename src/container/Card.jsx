@@ -17,7 +17,7 @@ function Card() {
           <p>Published 21 Dec 2023</p>
         </div>
         <div className="card__info_code">
-          <p>HTML & CSS foundations</p>
+          <a href="/">HTML & CSS foundations</a>
         </div>
         <div className="card__info_text">
           <p>

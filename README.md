@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot.png)
+<img src="screenshot.png" alt="screenshot" />
 
 ### Links
 
